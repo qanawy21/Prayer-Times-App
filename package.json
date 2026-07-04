@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://qanawy21.github.io/Prayer-Times-App/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,7 +13,6 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "homepage": "https://qanawy21.github.io/Prayer-Times-App/",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },
