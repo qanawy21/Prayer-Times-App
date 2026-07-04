@@ -9,7 +9,7 @@ function App() {
 
     const [prayerTimes , setPrayerTimes] = useState({})
     const [dateTimes , setDateTimes] = useState("")
-    const [city , setCity] = useState("Cario")
+    const [city , setCity] = useState("Cairo")
 
     const cities = [
   { name: 'القاهرة', value: 'Cairo' },
@@ -46,7 +46,7 @@ function App() {
     const fetchPrayerTimes = async () =>{
       try{
 
-          const response = await fetch(`https://api.aladhan.com/v1/timingsByCity/current?city=${city}&country=Egypt`)
+          const response = await fetch(`https://api.aladhan.com/v1/timingsByCity?city=${city}&country=Egypt`)
           const date_Prayer = await response.json()
 
           setPrayerTimes(date_Prayer.data.timings)
