@@ -78,8 +78,8 @@ npm run dev
 Feel free to reach out for technical discussions or collaboration:
 
 * 🧑‍💻 **Portfolio:** [Add Your Portfolio Link Here]
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/mahmoudalqanawy21/](https://www.linkedin.com/in/mahmoudalqanawy21/)
-* 📧 **Email:** [mahmoudalqanawy21@gmail.com](https://www.google.com/search?q=mailto%3Amahmoudalqanawy21%40gmail.com)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/mahmoudalqanawy21/]
+* 📧 **Email:** [mahmoudalqanawy21@gmail.com]
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request!
 
